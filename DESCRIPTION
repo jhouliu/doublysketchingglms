@@ -1,0 +1,15 @@
+Package: doublysketchingglms
+Type: Package
+Title: Generalized Linear Models for Massive Data via Doubly-Sketching
+Version: 0.0.1
+Date: 2023-06-01
+Author: Jason Hou-Liu
+Maintainer: Jason Hou-Liu <jhouliu@uwaterloo.ca>
+Description: Generalized Linear Models for Massive Data via Doubly-Sketching
+License: GPL-3
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
+NeedsCompilation: yes
